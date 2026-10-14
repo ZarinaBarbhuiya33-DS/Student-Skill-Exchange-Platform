@@ -1,5 +1,3 @@
-# Student-Skill-Exchange-Platform
-
 # Student's Skill Exchange Platform 🎓
 
 A decentralized, zero-cost peer-to-peer learning platform built exclusively for Woxsen University students. This project facilitates an academic barter economy where students can trade their specific technical proficiencies (e.g., Java OOP) for guidance in subjects they are struggling with (e.g., Data Science).
