@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SkillCatalog>
+    <Category name="Programming Languages">
+        <Skill id="101">Java OOP Concepts</Skill>
+        <Skill id="102">Python for Data Science</Skill>
+    </Category>
+    <Category name="Web Technologies">
+        <Skill id="201">Advanced CSS &amp; UI Design</Skill>
+        <Skill id="202">PHP &amp; MySQL Integration</Skill>
+        <Skill id="203">XML Data Exchange</Skill>
+    </Category>
+    <Category name="Database &amp; AI">
+        <Skill id="301">Basic SQL &amp; Database Design</Skill>
+        <Skill id="302">Data Structures</Skill>
+        <Skill id="303">Machine Learning Basics</Skill>
+    </Category>
+</SkillCatalog>
